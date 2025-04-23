@@ -1027,7 +1027,7 @@ transition: transform 0.3s;
 
                     setTimeout(() => {
                         setEtapaConfirm(true)
-                    }, 8000);
+                    }, 6000);
 
 
 
